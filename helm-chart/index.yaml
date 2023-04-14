@@ -13,6 +13,6 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://selvamt94.github.io/neuvector-helm/core-2.4.3.tgz
+    - https://selvamt94.github.io/helm-chart/core-2.4.3.tgz
     version: 2.4.3
 generated: "2023-04-13T18:41:40.506497264-07:00"
